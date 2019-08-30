@@ -1,6 +1,7 @@
 # Google Code Jam 2019 Qualification Round
 
-Solutions for Google Code Jam 2019 qualification round.
+Solutions for Google Code Jam 2019 qualification round at
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705.
 
 ## ForegoneSolution
 
