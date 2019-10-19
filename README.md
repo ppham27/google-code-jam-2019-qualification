@@ -29,11 +29,11 @@ support big integers.
 For $F = 10$,
 
 ```
-python interactive_runner.py python testing_tool.py 0 -- swift run DatBae
+python interactive_runner.py python data/DatBae.py 0 -- swift run DatBae
 ```
 
 For $F = 5$,
 
 ```
-python interactive_runner.py python testing_tool.py 1 -- swift run DatBae
+python interactive_runner.py python data/DatBae.py 1 -- swift run DatBae
 ```
